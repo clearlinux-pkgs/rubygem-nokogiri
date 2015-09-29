@@ -4,7 +4,7 @@
 #
 Name     : rubygem-nokogiri
 Version  : 1.6.6.2
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/nokogiri-1.6.6.2.gem
 Source0  : https://rubygems.org/downloads/nokogiri-1.6.6.2.gem
 Summary  : No detailed summary available
